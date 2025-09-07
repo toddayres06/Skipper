@@ -1,0 +1,6 @@
+.container-home {
+    min-height: 100vh;
+    background: url('../../assets/darkSkyBoat.jpg');
+    padding: 12px;
+    color: var(--offwhite);
+}
